@@ -1,5 +1,7 @@
 # ReactBootcamp_BitirmeProjesi
 
+----------------------------------------------------------------
+
 MEGA AKADEMİ - ÜRETKEN AKADEMİ - MERAM BELEDİYESİ'NE TEŞEKKÜRLER.
 
 ----------------------------------------------------------------
