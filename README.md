@@ -2,7 +2,7 @@
 
 ----------------------------------------------------------------
 
-MEGA AKADEMİ - ÜRETKEN AKADEMİ - MERAM BELEDİYESİ'NE TEŞEKKÜRLER.
+MEGA YAZILIM - ÜRETKEN AKADEMİ - MERAM BELEDİYESİ'NE TEŞEKKÜRLER.
 
 ----------------------------------------------------------------
 
