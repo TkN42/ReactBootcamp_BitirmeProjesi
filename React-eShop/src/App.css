@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Questrial', sans-serif;
+  background-image: url('../src/logo/konya.jpg'); /* Resim yolunu belirtin */
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed; /* Sayfa kaydırıldığında arka plan resmi sabit kalsın */
+}
+
+.wrapper {
+  width: 70vw;
+  margin: 24px auto;
+}
