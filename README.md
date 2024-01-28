@@ -2,7 +2,7 @@
 
 ----------------------------------------------------------------
 
-MEGA YAZILIM - ÜRETKEN AKADEMİ - MERAM BELEDİYESİ'NE TEŞEKKÜRLER.
+MEGA YAZILIM - ÜRETKEN AKADEMİ - MERAM Belediyesi Ve ENES POLAT Hocamıza TEŞEKKÜRLER.
 
 ----------------------------------------------------------------
 
